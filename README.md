@@ -29,3 +29,11 @@ unzip -o /tmp/chromedriver_linux64.zip -d /tmp/
 chmod +x /tmp/chromedriver
 mv /tmp/chromedriver /usr/local/bin/chromedriver
 pip install selenium
+```
+## Data Storage
+### CSV Files:
+
+data_broadband.csv: Contains Fixed Broadband connection data.
+data_mobile.csv: Contains Mobile connection data.
+### SQL Files:
+scrap_speedtest.sql: backup file of MYSQL of the two tables Broadband and Mobile
