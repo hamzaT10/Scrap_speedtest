@@ -36,4 +36,4 @@ pip install selenium
 - **data_broadband.csv**: Contains Fixed Broadband connection data.
 - **data_mobile.csv**: Contains Mobile connection data.
 ### SQL Files:
-**scrap_speedtest.sql**: backup file of MYSQL of the two tables Broadband and Mobile
+- **scrap_speedtest.sql**: backup file of MYSQL of the two tables Broadband and Mobile
