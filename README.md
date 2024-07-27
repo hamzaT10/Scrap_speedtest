@@ -30,6 +30,14 @@ chmod +x /tmp/chromedriver
 mv /tmp/chromedriver /usr/local/bin/chromedriver
 pip install selenium
 ```
+
+### Local Environment
+
+For local environments, install the necessary packages using pip:
+
+```python
+pip install selenium beautifulsoup4 pandas pymysql chromedriver-autoinstaller
+```
 ## Data Storage
 ### CSV Files:
 
